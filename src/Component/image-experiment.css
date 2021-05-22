@@ -1,0 +1,7 @@
+#hello {
+  margin-top: 10px;
+}
+#targettedImage {
+  border: 6px solid gray;
+  border-radius: 8%;
+}
