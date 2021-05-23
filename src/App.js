@@ -1,5 +1,5 @@
 import "./App.css";
-import ImageSetUp from "./Component/image-experiment";
+import ImageSetUp from "react-zoominout";
 
 function App() {
   return (
